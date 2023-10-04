@@ -29,9 +29,9 @@ I am <b>Keyur Paralkar</b>, <b>Frontend Engineer</b> from <b>Pune, India.</b>
 <!-- BLOG-POST-LIST:START -->
 - [Create a Timeline component with the help of web components](https://dev.to/keyurparalkar/create-a-timeline-component-with-the-help-of-web-components-4go8)
 - [Create a passcode component from scratch in React](https://dev.to/keyurparalkar/create-a-passcode-component-from-scratch-in-react-4l88)
-- [Handling errors gracefully in react with error boundaries](https://dev.to/keyurparalkar/handling-errors-gracefully-in-react-with-error-boundaries-1n32)
-- [Creating custom hook for fetching data in react](https://dev.to/keyurparalkar/creating-custom-hook-for-fetching-data-in-react-3mo3)
-- [How to center content with HTML and CSS](https://dev.to/keyurparalkar/how-to-center-content-with-html-and-css-3398)
+- [How to Build an Image Carousel Component with TypeScript and Styled-Components](https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/)
+- [Separation of Concerns in React –How to Use Container and Presentational Components](https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/)
+- [How JavaScript&#39;s Proxy Object Works – Explained with Example Use Cases](https://www.freecodecamp.org/news/javascript-proxy-object/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Info:
