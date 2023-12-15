@@ -27,7 +27,7 @@ I am <b>Keyur Paralkar</b>, <b>Frontend Engineer</b> from <b>Pune, India.</b>
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building with React JS: Create your own Youtube Video Player: Starting with Basics](https://dev.to/keyurparalkar/building-with-react-js-create-your-own-youtube-video-player-starting-with-basics-1lpp)
+- [How I build a YouTube Video Player with ReactJS: Building the architecture](https://dev.to/keyurparalkar/building-with-react-js-create-your-own-youtube-video-player-starting-with-basics-1lpp)
 - [Create a Timeline component with the help of web components](https://dev.to/keyurparalkar/create-a-timeline-component-with-the-help-of-web-components-4go8)
 - [Create a passcode component from scratch in React](https://dev.to/keyurparalkar/create-a-passcode-component-from-scratch-in-react-4l88)
 - [How to Build an Image Carousel Component with TypeScript and Styled-Components](https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/)
