@@ -27,11 +27,11 @@ I am <b>Keyur Paralkar</b>, <b>Frontend Engineer</b> from <b>Pune, India.</b>
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I build a YouTube Video Player with ReactJS: Building FrameTooltip component](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-building-frametooltip-component-3o6p)
 - [How I build a YouTube Video Player with ReactJS: Build the Seekbar control](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-build-the-seekbar-control-3kg)
 - [How I build a YouTube Video Player with ReactJS: Building the Volume Control](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-building-the-volume-control-4jli)
 - [How I build a YouTube Video Player with ReactJS: Building the Play Button](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-building-the-play-button-4of2)
 - [How I build a YouTube Video Player with ReactJS: Building the Project Architecture](https://dev.to/keyurparalkar/building-with-react-js-create-your-own-youtube-video-player-starting-with-basics-1lpp)
-- [Create a Timeline component with the help of web components](https://dev.to/keyurparalkar/create-a-timeline-component-with-the-help-of-web-components-4go8)
 <!-- BLOG-POST-LIST:END -->
 
 ### Info:
