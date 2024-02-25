@@ -36,7 +36,7 @@ I am <b>Keyur Paralkar</b>, <b>Frontend Engineer</b> from <b>Pune, India.</b>
 
 ### Info:
 
--   🔭 I’m currently working on <b>[react-headless-passcode](https://github.com/keyurparalkar/react-headless-passcode) and [react-youtube-player-clone](https://github.com/keyurparalkar/react-youtube-player-clone)</b>
+-   🔭 I’m currently working on [react-youtube-player-clone](https://github.com/keyurparalkar/react-youtube-player-clone)</b> and <b>flow chart tool(coming soon)</b>
 -   🖥 Ask me about <b>Frontend</b>
 -   📫 How to reach me: <b>[Twitter](https://twitter.com/keurplkar), [LinkedIn](https://www.linkedin.com/in/keyur-paralkar)</b>
 -   😄 Pronouns: He/Him
