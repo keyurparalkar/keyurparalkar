@@ -27,11 +27,11 @@ I am <b>Keyur Paralkar</b>, <b>Frontend Engineer</b> from <b>Pune, India.</b>
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rendering a Million Rows in React by Drawing](https://dev.to/keyurparalkar/rendering-a-million-rows-in-react-by-drawing-1a39)
 - [Recursive elements in React](https://dev.to/keyurparalkar/recursive-elements-in-react-3jp1)
 - [How I build a YouTube Video Player with ReactJS: Add chapters to the video](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-add-chapters-to-the-video-1nde)
 - [How I build a YouTube Video Player with ReactJS: Building FrameTooltip component](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-building-frametooltip-component-3o6p)
 - [How I build a YouTube Video Player with ReactJS: Build the Seekbar control](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-build-the-seekbar-control-3kg)
-- [How I build a YouTube Video Player with ReactJS: Building the Volume Control](https://dev.to/keyurparalkar/how-i-build-a-youtube-video-player-with-reactjs-building-the-volume-control-4jli)
 <!-- BLOG-POST-LIST:END -->
 
 ### Info:
