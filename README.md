@@ -24,6 +24,11 @@ I am <b>Keyur Paralkar</b>, <b>Frontend Engineer</b> from <b>Pune, India.</b>
 
 </p>
 
+### Talks given at meetups
+- Building forms with Dependency Injection Pattern in React at [JSLovers meetup](https://www.meetup.com/jslovers-pune/events/299433526/) - [Slides](https://github.com/keyurparalkar/json-to-form/files/15064877/Building.forms.with.Dependency.Injection.pattern.in.React.pdf)
+- Render One Million Rows By Drawing at [ReactJS-Pune meetup](https://www.meetup.com/reactjs-and-friends/events/299595472/) - [Slides](https://github.com/keyurparalkar/render-million-rows/files/15064694/Render.Million.Rows.pdf)
+- Enhancing video experience with video frame snapshot tooltips at [JSLovers meetup](https://www.meetup.com/jslovers-pune/events/298144913/) - [Slides](https://github.com/keyurparalkar/react-youtube-player-clone/files/15065033/jslovers-talk-1-video_frame.pdf)
+
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
