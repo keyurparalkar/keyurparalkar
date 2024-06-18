@@ -32,11 +32,11 @@ I am <b>Keyur Paralkar</b>, <b>Frontend Engineer</b> from <b>Pune, India.</b>
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering TypeScript: Implementing Push, Pop, Shift, and Unshift in Tuples](https://dev.to/keyurparalkar/mastering-typescript-implementing-push-pop-shift-and-unshift-in-tuples-5833)
 - [Mastering Mapped Types in TypeScript and it&#39;s Practical Applications](https://dev.to/keyurparalkar/leveraging-mapped-types-in-typescript-practical-applications-1i0h)
 - [How to Simplify Your Code with TypeScript Discriminated Union Types](https://dev.to/keyurparalkar/make-your-life-easy-with-discriminated-union-types-2moi)
 - [Build a Realtime Collaborative Whiteboard with Supabase &amp; React](https://dev.to/keyurparalkar/mastering-real-time-collaboration-building-figma-and-miro-inspired-features-with-supabase-57eh)
 - [Rendering a Million Rows in React by Drawing](https://dev.to/keyurparalkar/rendering-a-million-rows-in-react-by-drawing-1a39)
-- [Recursive elements in React](https://dev.to/keyurparalkar/recursive-elements-in-react-3jp1)
 <!-- BLOG-POST-LIST:END -->
 
 ### Info:
