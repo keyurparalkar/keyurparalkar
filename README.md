@@ -41,7 +41,7 @@ I am <b>Keyur Paralkar</b>, <b>Frontend Engineer</b> from <b>Pune, India.</b>
 
 ### Info:
 
--   🔭 I’m currently working on [render-million-rows](https://github.com/keyurparalkar/render-million-rows)</b> and <b>flow chart tool(coming soon)</b>
+-   🔭 I’m currently working on <b>flow chart tool(coming soon)</b> and improving my TypeScript Skills.
 -   🖥 Ask me about <b>Frontend</b>
 -   📫 How to reach me: <b>[Twitter](https://twitter.com/keurplkar), [LinkedIn](https://www.linkedin.com/in/keyur-paralkar)</b>
 -   😄 Pronouns: He/Him
