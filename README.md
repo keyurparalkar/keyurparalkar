@@ -33,10 +33,10 @@ I am <b>Keyur Paralkar</b>, <b>Frontend Engineer</b> from <b>Pune, India.</b>
 
 <!-- BLOG-POST-LIST:START -->
 - [Master TypeScript: Let&#39;s Do Math In Type System](https://dev.to/keyurparalkar/master-typescript-lets-do-math-in-type-system-2j73)
-- [How to Improve Your JavaScript Code with Powerful Build Tool Configs](https://www.freecodecamp.org/news/improve-your-javascript-projects-with-build-tools/)
 - [Mastering TypeScript: Implementing Push, Pop, Shift, and Unshift in Tuples](https://dev.to/keyurparalkar/mastering-typescript-implementing-push-pop-shift-and-unshift-in-tuples-5833)
 - [Mastering Mapped Types in TypeScript and it&#39;s Practical Applications](https://dev.to/keyurparalkar/leveraging-mapped-types-in-typescript-practical-applications-1i0h)
 - [How to Simplify Your Code with TypeScript Discriminated Union Types](https://dev.to/keyurparalkar/make-your-life-easy-with-discriminated-union-types-2moi)
+- [Build a Realtime Collaborative Whiteboard with Supabase &amp; React](https://dev.to/keyurparalkar/mastering-real-time-collaboration-building-figma-and-miro-inspired-features-with-supabase-57eh)
 <!-- BLOG-POST-LIST:END -->
 
 ### Info:
