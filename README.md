@@ -1,6 +1,6 @@
 <h1><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30"/> Hello, nice to see you!</h1>
 
-I am <b>Keyur Paralkar</b>, <b>Frontend Engineer</b> from <b>Pune, India.</b>
+I am Keyur Paralkar, Typescript fanatic, Frontend Engineer, Team member at @jslovers_del meetup, Book enthusiast, and Swimmer from <b>Aurangabad, Maharashtra, India.</b>
 
 <h3>Stack I work with</h3>
 <p>
@@ -25,6 +25,7 @@ I am <b>Keyur Paralkar</b>, <b>Frontend Engineer</b> from <b>Pune, India.</b>
 </p>
 
 ### Talks given at meetups
+- Bulletproof your React Project with sensible configs and practices at [ReactJS-Mumbai meetup(https://lu.ma/xc2sfdex?tk=sdUDUj) - [Slides](https://slides.com/keyurparalkar/bulletproof-your-react-project-with-sensible-configs-and-practices)
 - Building forms with Dependency Injection Pattern in React at [JSLovers meetup](https://www.meetup.com/jslovers-pune/events/299433526/) - [Slides](https://github.com/keyurparalkar/json-to-form/files/15064877/Building.forms.with.Dependency.Injection.pattern.in.React.pdf)
 - Render One Million Rows By Drawing at [ReactJS-Pune meetup](https://www.meetup.com/reactjs-and-friends/events/299595472/) - [Slides](https://github.com/keyurparalkar/render-million-rows/files/15064694/Render.Million.Rows.pdf)
 - Enhancing video experience with video frame snapshot tooltips at [JSLovers meetup](https://www.meetup.com/jslovers-pune/events/298144913/) - [Slides](https://github.com/keyurparalkar/react-youtube-player-clone/files/15065033/jslovers-talk-1-video_frame.pdf)
