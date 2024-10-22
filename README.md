@@ -44,6 +44,6 @@ I am Keyur Paralkar, Typescript fanatic, Frontend Engineer, Team member at @jslo
 
 -   🔭 I’m currently working on <b>flow chart tool(coming soon)</b> and improving my TypeScript Skills.
 -   🖥 Ask me about <b>Frontend</b>
--   📫 How to reach me: <b>[Twitter](https://twitter.com/keurplkar), [LinkedIn](https://www.linkedin.com/in/keyur-paralkar)</b>
+-   📫 How to reach me: <b>[Twitter](https://twitter.com/keurplkar), [LinkedIn](https://www.linkedin.com/in/keyurparalkar/)</b>
 -   😄 Pronouns: He/Him
 -   ⚡ Fun fact: I spend most of the time building cool stuffs and writing blogs on <b>[dev.to](https://dev.to/keyurparalkar)</b> and <b>[freecodecamp.org](https://www.freecodecamp.org/news/author/keyurparalkar/)</b>
