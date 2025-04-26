@@ -25,6 +25,7 @@ I am Keyur Paralkar, Typescript fanatic, Frontend Engineer, Team member at @jslo
 </p>
 
 ### Talks given at meetups
+- Demystifying Google Doc's Collaborative Feature with SSE and React at - [ReactJS-Mumbai meetup](https://lu.ma/dpj0e3tr)
 - Bulletproof your React Project with sensible configs and practices at [ReactJS-Mumbai meetup](https://lu.ma/xc2sfdex?tk=sdUDUj) - [Slides](https://slides.com/keyurparalkar/bulletproof-your-react-project-with-sensible-configs-and-practices)
 - Building forms with Dependency Injection Pattern in React at [JSLovers meetup](https://www.meetup.com/jslovers-pune/events/299433526/) - [Slides](https://github.com/keyurparalkar/json-to-form/files/15064877/Building.forms.with.Dependency.Injection.pattern.in.React.pdf)
 - Render One Million Rows By Drawing at [ReactJS-Pune meetup](https://www.meetup.com/reactjs-and-friends/events/299595472/) - [Slides](https://github.com/keyurparalkar/render-million-rows/files/15064694/Render.Million.Rows.pdf)
