@@ -34,11 +34,11 @@ I am Keyur Paralkar, Typescript fanatic, Frontend Engineer, Team member at @jslo
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey folks, I wrote about website localization and its importance. Do give it a read!](https://dev.to/keyurparalkar/hey-folks-i-wrote-about-website-localization-and-its-importance-do-give-it-a-read-nfd)
-- [What is Website Localization?](https://dev.to/keyurparalkar/what-is-website-localization-55mn)
 - [How to Boost Web Performance with Prefetching – Improve User Experience by Reducing Load Time](https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/)
-- [Master TypeScript: Let&#39;s Do Math In Type System](https://dev.to/keyurparalkar/master-typescript-lets-do-math-in-type-system-2j73)
 - [How to Improve Your JavaScript Code with Powerful Build Tool Configs](https://www.freecodecamp.org/news/improve-your-javascript-projects-with-build-tools/)
+- [How to Build an Image Carousel Component with TypeScript and Styled-Components](https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/)
+- [Separation of Concerns in React –How to Use Container and Presentational Components](https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/)
+- [How JavaScript&#39;s Proxy Object Works – Explained with Example Use Cases](https://www.freecodecamp.org/news/javascript-proxy-object/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Info:
