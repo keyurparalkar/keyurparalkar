@@ -34,11 +34,11 @@ I am Keyur Paralkar, Typescript fanatic, Frontend Engineer, Team member at @jslo
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Production-Grade Table Editor with React and XState](https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-41ke)
 - [Hey folks, I wrote about website localization and its importance. Do give it a read!](https://dev.to/keyurparalkar/hey-folks-i-wrote-about-website-localization-and-its-importance-do-give-it-a-read-nfd)
 - [What is Website Localization?](https://dev.to/keyurparalkar/what-is-website-localization-55mn)
 - [How to Boost Web Performance with Prefetching – Improve User Experience by Reducing Load Time](https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/)
 - [Master TypeScript: Let&#39;s Do Math In Type System](https://dev.to/keyurparalkar/master-typescript-lets-do-math-in-type-system-2j73)
-- [How to Improve Your JavaScript Code with Powerful Build Tool Configs](https://www.freecodecamp.org/news/improve-your-javascript-projects-with-build-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Info:
