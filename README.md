@@ -34,7 +34,7 @@ I am Keyur Paralkar, Typescript fanatic, Frontend Engineer, Team member at @jslo
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Grade Table Editor with React and XState — Adding Rows &amp; Columns](https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-adding-rows-columns-efb)
+- [Adding Rows &amp; Columns](https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-adding-rows-columns-efb)
 - [Building a Production-Grade Table Editor with React and XState](https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-41ke)
 - [Hey folks, I wrote about website localization and its importance. Do give it a read!](https://dev.to/keyurparalkar/hey-folks-i-wrote-about-website-localization-and-its-importance-do-give-it-a-read-nfd)
 - [What is Website Localization?](https://dev.to/keyurparalkar/what-is-website-localization-55mn)
